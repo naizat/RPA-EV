@@ -1,2 +1,1 @@
-# RPA-Application-Email_Validation
- 
+# How to use
